@@ -1,0 +1,730 @@
+Exposures,AnalogueGains,Saturation,NoiseReductionModes,Brightness,Contrast'
+image_coffe_cup/coffe_cpu_0.jpg,10000,0,0,0,0,0,n02815834 beaker
+image_coffe_cup/coffe_cpu_1.jpg,10000,0,0,0,0,4,n02815834 beaker
+image_coffe_cup/coffe_cpu_2.jpg,10000,0,0,0,0,32,n02815834 beaker
+image_coffe_cup/coffe_cpu_3.jpg,10000,0,0,0,0.25,0,n02815834 beaker
+image_coffe_cup/coffe_cpu_4.jpg,10000,0,0,0,0.25,4,n02815834 beaker
+image_coffe_cup/coffe_cpu_5.jpg,10000,0,0,0,0.25,32,n02815834 beaker
+image_coffe_cup/coffe_cpu_6.jpg,10000,0,0,0,0.75,0,n02815834 beaker
+image_coffe_cup/coffe_cpu_7.jpg,10000,0,0,0,0.75,4,n02815834 beaker
+image_coffe_cup/coffe_cpu_8.jpg,10000,0,0,0,0.75,32,n02815834 beaker
+image_coffe_cup/coffe_cpu_9.jpg,10000,0,0,2,0,0,n02815834 beaker
+image_coffe_cup/coffe_cpu_10.jpg,10000,0,0,2,0,4,n02815834 beaker
+image_coffe_cup/coffe_cpu_11.jpg,10000,0,0,2,0,32,n02815834 beaker
+image_coffe_cup/coffe_cpu_12.jpg,10000,0,0,2,0.25,0,n02815834 beaker
+image_coffe_cup/coffe_cpu_13.jpg,10000,0,0,2,0.25,4,n02815834 beaker
+image_coffe_cup/coffe_cpu_14.jpg,10000,0,0,2,0.25,32,n02815834 beaker
+image_coffe_cup/coffe_cpu_15.jpg,10000,0,0,2,0.75,0,n02815834 beaker
+image_coffe_cup/coffe_cpu_16.jpg,10000,0,0,2,0.75,4,n02815834 beaker
+image_coffe_cup/coffe_cpu_17.jpg,10000,0,0,2,0.75,32,n02815834 beaker
+image_coffe_cup/coffe_cpu_18.jpg,10000,0,0,4,0,0,n02815834 beaker
+image_coffe_cup/coffe_cpu_19.jpg,10000,0,0,4,0,4,n02815834 beaker
+image_coffe_cup/coffe_cpu_20.jpg,10000,0,0,4,0,32,n02815834 beaker
+image_coffe_cup/coffe_cpu_21.jpg,10000,0,0,4,0.25,0,n02815834 beaker
+image_coffe_cup/coffe_cpu_22.jpg,10000,0,0,4,0.25,4,n02815834 beaker
+image_coffe_cup/coffe_cpu_23.jpg,10000,0,0,4,0.25,32,n02815834 beaker
+image_coffe_cup/coffe_cpu_24.jpg,10000,0,0,4,0.75,0,n02815834 beaker
+image_coffe_cup/coffe_cpu_25.jpg,10000,0,0,4,0.75,4,n02815834 beaker
+image_coffe_cup/coffe_cpu_26.jpg,10000,0,0,4,0.75,32,n02815834 beaker
+image_coffe_cup/coffe_cpu_27.jpg,10000,0,0.25,0,0,0,n03937543 pill bottle
+image_coffe_cup/coffe_cpu_28.jpg,10000,0,0.25,0,0,4,n02815834 beaker
+image_coffe_cup/coffe_cpu_29.jpg,10000,0,0.25,0,0,32,n02815834 beaker
+image_coffe_cup/coffe_cpu_30.jpg,10000,0,0.25,0,0.25,0,n02815834 beaker
+image_coffe_cup/coffe_cpu_31.jpg,10000,0,0.25,0,0.25,4,n02815834 beaker
+image_coffe_cup/coffe_cpu_32.jpg,10000,0,0.25,0,0.25,32,n02815834 beaker
+image_coffe_cup/coffe_cpu_33.jpg,10000,0,0.25,0,0.75,0,n02815834 beaker
+image_coffe_cup/coffe_cpu_34.jpg,10000,0,0.25,0,0.75,4,n02815834 beaker
+image_coffe_cup/coffe_cpu_35.jpg,10000,0,0.25,0,0.75,32,n02815834 beaker
+image_coffe_cup/coffe_cpu_36.jpg,10000,0,0.25,2,0,0,n02815834 beaker
+image_coffe_cup/coffe_cpu_37.jpg,10000,0,0.25,2,0,4,n02815834 beaker
+image_coffe_cup/coffe_cpu_38.jpg,10000,0,0.25,2,0,32,n02815834 beaker
+image_coffe_cup/coffe_cpu_39.jpg,10000,0,0.25,2,0.25,0,n02815834 beaker
+image_coffe_cup/coffe_cpu_40.jpg,10000,0,0.25,2,0.25,4,n02815834 beaker
+image_coffe_cup/coffe_cpu_41.jpg,10000,0,0.25,2,0.25,32,n02815834 beaker
+image_coffe_cup/coffe_cpu_42.jpg,10000,0,0.25,2,0.75,0,n02815834 beaker
+image_coffe_cup/coffe_cpu_43.jpg,10000,0,0.25,2,0.75,4,n02815834 beaker
+image_coffe_cup/coffe_cpu_44.jpg,10000,0,0.25,2,0.75,32,n02815834 beaker
+image_coffe_cup/coffe_cpu_45.jpg,10000,0,0.25,4,0,0,n02815834 beaker
+image_coffe_cup/coffe_cpu_46.jpg,10000,0,0.25,4,0,4,n02815834 beaker
+image_coffe_cup/coffe_cpu_47.jpg,10000,0,0.25,4,0,32,n02815834 beaker
+image_coffe_cup/coffe_cpu_48.jpg,10000,0,0.25,4,0.25,0,n02815834 beaker
+image_coffe_cup/coffe_cpu_49.jpg,10000,0,0.25,4,0.25,4,n02815834 beaker
+image_coffe_cup/coffe_cpu_50.jpg,10000,0,0.25,4,0.25,32,n02815834 beaker
+image_coffe_cup/coffe_cpu_51.jpg,10000,0,0.25,4,0.75,0,n02815834 beaker
+image_coffe_cup/coffe_cpu_52.jpg,10000,0,0.25,4,0.75,4,n02815834 beaker
+image_coffe_cup/coffe_cpu_53.jpg,10000,0,0.25,4,0.75,32,n02815834 beaker
+image_coffe_cup/coffe_cpu_54.jpg,10000,0,0.75,0,0,0,n02815834 beaker
+image_coffe_cup/coffe_cpu_55.jpg,10000,0,0.75,0,0,4,n02815834 beaker
+image_coffe_cup/coffe_cpu_56.jpg,10000,0,0.75,0,0,32,n02815834 beaker
+image_coffe_cup/coffe_cpu_57.jpg,10000,0,0.75,0,0.25,0,n02815834 beaker
+image_coffe_cup/coffe_cpu_58.jpg,10000,0,0.75,0,0.25,4,n02815834 beaker
+image_coffe_cup/coffe_cpu_59.jpg,10000,0,0.75,0,0.25,32,n02815834 beaker
+image_coffe_cup/coffe_cpu_60.jpg,10000,0,0.75,0,0.75,0,n02815834 beaker
+image_coffe_cup/coffe_cpu_61.jpg,10000,0,0.75,0,0.75,4,n02815834 beaker
+image_coffe_cup/coffe_cpu_62.jpg,10000,0,0.75,0,0.75,32,n02815834 beaker
+image_coffe_cup/coffe_cpu_63.jpg,10000,0,0.75,2,0,0,n02815834 beaker
+image_coffe_cup/coffe_cpu_64.jpg,10000,0,0.75,2,0,4,n02815834 beaker
+image_coffe_cup/coffe_cpu_65.jpg,10000,0,0.75,2,0,32,n02815834 beaker
+image_coffe_cup/coffe_cpu_66.jpg,10000,0,0.75,2,0.25,0,n02815834 beaker
+image_coffe_cup/coffe_cpu_67.jpg,10000,0,0.75,2,0.25,4,n02815834 beaker
+image_coffe_cup/coffe_cpu_68.jpg,10000,0,0.75,2,0.25,32,n02815834 beaker
+image_coffe_cup/coffe_cpu_69.jpg,10000,0,0.75,2,0.75,0,n02815834 beaker
+image_coffe_cup/coffe_cpu_70.jpg,10000,0,0.75,2,0.75,4,n02815834 beaker
+image_coffe_cup/coffe_cpu_71.jpg,10000,0,0.75,2,0.75,32,n02815834 beaker
+image_coffe_cup/coffe_cpu_72.jpg,10000,0,0.75,4,0,0,n02815834 beaker
+image_coffe_cup/coffe_cpu_73.jpg,10000,0,0.75,4,0,4,n02815834 beaker
+image_coffe_cup/coffe_cpu_74.jpg,10000,0,0.75,4,0,32,n02815834 beaker
+image_coffe_cup/coffe_cpu_75.jpg,10000,0,0.75,4,0.25,0,n02815834 beaker
+image_coffe_cup/coffe_cpu_76.jpg,10000,0,0.75,4,0.25,4,n02815834 beaker
+image_coffe_cup/coffe_cpu_77.jpg,10000,0,0.75,4,0.25,32,n02815834 beaker
+image_coffe_cup/coffe_cpu_78.jpg,10000,0,0.75,4,0.75,0,n02815834 beaker
+image_coffe_cup/coffe_cpu_79.jpg,10000,0,0.75,4,0.75,4,n02815834 beaker
+image_coffe_cup/coffe_cpu_80.jpg,10000,0,0.75,4,0.75,32,n02815834 beaker
+image_coffe_cup/coffe_cpu_81.jpg,10000,4,0,0,0,0,n02815834 beaker
+image_coffe_cup/coffe_cpu_82.jpg,10000,4,0,0,0,4,n02815834 beaker
+image_coffe_cup/coffe_cpu_83.jpg,10000,4,0,0,0,32,n02815834 beaker
+image_coffe_cup/coffe_cpu_84.jpg,10000,4,0,0,0.25,0,n02815834 beaker
+image_coffe_cup/coffe_cpu_85.jpg,10000,4,0,0,0.25,4,n02815834 beaker
+image_coffe_cup/coffe_cpu_86.jpg,10000,4,0,0,0.25,32,n02815834 beaker
+image_coffe_cup/coffe_cpu_87.jpg,10000,4,0,0,0.75,0,n02815834 beaker
+image_coffe_cup/coffe_cpu_88.jpg,10000,4,0,0,0.75,4,n02815834 beaker
+image_coffe_cup/coffe_cpu_89.jpg,10000,4,0,0,0.75,32,n03937543 pill bottle
+image_coffe_cup/coffe_cpu_90.jpg,10000,4,0,2,0,0,n02815834 beaker
+image_coffe_cup/coffe_cpu_91.jpg,10000,4,0,2,0,4,n02815834 beaker
+image_coffe_cup/coffe_cpu_92.jpg,10000,4,0,2,0,32,n02815834 beaker
+image_coffe_cup/coffe_cpu_93.jpg,10000,4,0,2,0.25,0,n02815834 beaker
+image_coffe_cup/coffe_cpu_94.jpg,10000,4,0,2,0.25,4,n02815834 beaker
+image_coffe_cup/coffe_cpu_95.jpg,10000,4,0,2,0.25,32,n02815834 beaker
+image_coffe_cup/coffe_cpu_96.jpg,10000,4,0,2,0.75,0,n03937543 pill bottle
+image_coffe_cup/coffe_cpu_97.jpg,10000,4,0,2,0.75,4,n03937543 pill bottle
+image_coffe_cup/coffe_cpu_98.jpg,10000,4,0,2,0.75,32,n02815834 beaker
+image_coffe_cup/coffe_cpu_99.jpg,10000,4,0,4,0,0,n02815834 beaker
+image_coffe_cup/coffe_cpu_100.jpg,10000,4,0,4,0,4,n02815834 beaker
+image_coffe_cup/coffe_cpu_101.jpg,10000,4,0,4,0,32,n02815834 beaker
+image_coffe_cup/coffe_cpu_102.jpg,10000,4,0,4,0.25,0,n03937543 pill bottle
+image_coffe_cup/coffe_cpu_103.jpg,10000,4,0,4,0.25,4,n02815834 beaker
+image_coffe_cup/coffe_cpu_104.jpg,10000,4,0,4,0.25,32,n02815834 beaker
+image_coffe_cup/coffe_cpu_105.jpg,10000,4,0,4,0.75,0,n02815834 beaker
+image_coffe_cup/coffe_cpu_106.jpg,10000,4,0,4,0.75,4,n02815834 beaker
+image_coffe_cup/coffe_cpu_107.jpg,10000,4,0,4,0.75,32,n02815834 beaker
+image_coffe_cup/coffe_cpu_108.jpg,10000,4,0.25,0,0,0,n02815834 beaker
+image_coffe_cup/coffe_cpu_109.jpg,10000,4,0.25,0,0,4,n02815834 beaker
+image_coffe_cup/coffe_cpu_110.jpg,10000,4,0.25,0,0,32,n02815834 beaker
+image_coffe_cup/coffe_cpu_111.jpg,10000,4,0.25,0,0.25,0,n03937543 pill bottle
+image_coffe_cup/coffe_cpu_112.jpg,10000,4,0.25,0,0.25,4,n02815834 beaker
+image_coffe_cup/coffe_cpu_113.jpg,10000,4,0.25,0,0.25,32,n02815834 beaker
+image_coffe_cup/coffe_cpu_114.jpg,10000,4,0.25,0,0.75,0,n02815834 beaker
+image_coffe_cup/coffe_cpu_115.jpg,10000,4,0.25,0,0.75,4,n02815834 beaker
+image_coffe_cup/coffe_cpu_116.jpg,10000,4,0.25,0,0.75,32,n02815834 beaker
+image_coffe_cup/coffe_cpu_117.jpg,10000,4,0.25,2,0,0,n03937543 pill bottle
+image_coffe_cup/coffe_cpu_118.jpg,10000,4,0.25,2,0,4,n02815834 beaker
+image_coffe_cup/coffe_cpu_119.jpg,10000,4,0.25,2,0,32,n03937543 pill bottle
+image_coffe_cup/coffe_cpu_120.jpg,10000,4,0.25,2,0.25,0,n02815834 beaker
+image_coffe_cup/coffe_cpu_121.jpg,10000,4,0.25,2,0.25,4,n03937543 pill bottle
+image_coffe_cup/coffe_cpu_122.jpg,10000,4,0.25,2,0.25,32,n02815834 beaker
+image_coffe_cup/coffe_cpu_123.jpg,10000,4,0.25,2,0.75,0,n03937543 pill bottle
+image_coffe_cup/coffe_cpu_124.jpg,10000,4,0.25,2,0.75,4,n02815834 beaker
+image_coffe_cup/coffe_cpu_125.jpg,10000,4,0.25,2,0.75,32,n02815834 beaker
+image_coffe_cup/coffe_cpu_126.jpg,10000,4,0.25,4,0,0,n03937543 pill bottle
+image_coffe_cup/coffe_cpu_127.jpg,10000,4,0.25,4,0,4,n02815834 beaker
+image_coffe_cup/coffe_cpu_128.jpg,10000,4,0.25,4,0,32,n02815834 beaker
+image_coffe_cup/coffe_cpu_129.jpg,10000,4,0.25,4,0.25,0,n02815834 beaker
+image_coffe_cup/coffe_cpu_130.jpg,10000,4,0.25,4,0.25,4,n02815834 beaker
+image_coffe_cup/coffe_cpu_131.jpg,10000,4,0.25,4,0.25,32,n02815834 beaker
+image_coffe_cup/coffe_cpu_132.jpg,10000,4,0.25,4,0.75,0,n02815834 beaker
+image_coffe_cup/coffe_cpu_133.jpg,10000,4,0.25,4,0.75,4,n02815834 beaker
+image_coffe_cup/coffe_cpu_134.jpg,10000,4,0.25,4,0.75,32,n02815834 beaker
+image_coffe_cup/coffe_cpu_135.jpg,10000,4,0.75,0,0,0,n02815834 beaker
+image_coffe_cup/coffe_cpu_136.jpg,10000,4,0.75,0,0,4,n02815834 beaker
+image_coffe_cup/coffe_cpu_137.jpg,10000,4,0.75,0,0,32,n03937543 pill bottle
+image_coffe_cup/coffe_cpu_138.jpg,10000,4,0.75,0,0.25,0,n02815834 beaker
+image_coffe_cup/coffe_cpu_139.jpg,10000,4,0.75,0,0.25,4,n02815834 beaker
+image_coffe_cup/coffe_cpu_140.jpg,10000,4,0.75,0,0.25,32,n02815834 beaker
+image_coffe_cup/coffe_cpu_141.jpg,10000,4,0.75,0,0.75,0,n02815834 beaker
+image_coffe_cup/coffe_cpu_142.jpg,10000,4,0.75,0,0.75,4,n02815834 beaker
+image_coffe_cup/coffe_cpu_143.jpg,10000,4,0.75,0,0.75,32,n02815834 beaker
+image_coffe_cup/coffe_cpu_144.jpg,10000,4,0.75,2,0,0,n03937543 pill bottle
+image_coffe_cup/coffe_cpu_145.jpg,10000,4,0.75,2,0,4,n02815834 beaker
+image_coffe_cup/coffe_cpu_146.jpg,10000,4,0.75,2,0,32,n02815834 beaker
+image_coffe_cup/coffe_cpu_147.jpg,10000,4,0.75,2,0.25,0,n02815834 beaker
+image_coffe_cup/coffe_cpu_148.jpg,10000,4,0.75,2,0.25,4,n02815834 beaker
+image_coffe_cup/coffe_cpu_149.jpg,10000,4,0.75,2,0.25,32,n02815834 beaker
+image_coffe_cup/coffe_cpu_150.jpg,10000,4,0.75,2,0.75,0,n03937543 pill bottle
+image_coffe_cup/coffe_cpu_151.jpg,10000,4,0.75,2,0.75,4,n02815834 beaker
+image_coffe_cup/coffe_cpu_152.jpg,10000,4,0.75,2,0.75,32,n02815834 beaker
+image_coffe_cup/coffe_cpu_153.jpg,10000,4,0.75,4,0,0,n03937543 pill bottle
+image_coffe_cup/coffe_cpu_154.jpg,10000,4,0.75,4,0,4,n02815834 beaker
+image_coffe_cup/coffe_cpu_155.jpg,10000,4,0.75,4,0,32,n02815834 beaker
+image_coffe_cup/coffe_cpu_156.jpg,10000,4,0.75,4,0.25,0,n03937543 pill bottle
+image_coffe_cup/coffe_cpu_157.jpg,10000,4,0.75,4,0.25,4,n03937543 pill bottle
+image_coffe_cup/coffe_cpu_158.jpg,10000,4,0.75,4,0.25,32,n02815834 beaker
+image_coffe_cup/coffe_cpu_159.jpg,10000,4,0.75,4,0.75,0,n02815834 beaker
+image_coffe_cup/coffe_cpu_160.jpg,10000,4,0.75,4,0.75,4,n02815834 beaker
+image_coffe_cup/coffe_cpu_161.jpg,10000,4,0.75,4,0.75,32,n03937543 pill bottle
+image_coffe_cup/coffe_cpu_162.jpg,10000,32,0,0,0,0,n02815834 beaker
+image_coffe_cup/coffe_cpu_163.jpg,10000,32,0,0,0,4,n02815834 beaker
+image_coffe_cup/coffe_cpu_164.jpg,10000,32,0,0,0,32,n02815834 beaker
+image_coffe_cup/coffe_cpu_165.jpg,10000,32,0,0,0.25,0,n02815834 beaker
+image_coffe_cup/coffe_cpu_166.jpg,10000,32,0,0,0.25,4,n02815834 beaker
+image_coffe_cup/coffe_cpu_167.jpg,10000,32,0,0,0.25,32,n02815834 beaker
+image_coffe_cup/coffe_cpu_168.jpg,10000,32,0,0,0.75,0,n02815834 beaker
+image_coffe_cup/coffe_cpu_169.jpg,10000,32,0,0,0.75,4,n02815834 beaker
+image_coffe_cup/coffe_cpu_170.jpg,10000,32,0,0,0.75,32,n02815834 beaker
+image_coffe_cup/coffe_cpu_171.jpg,10000,32,0,2,0,0,n02815834 beaker
+image_coffe_cup/coffe_cpu_172.jpg,10000,32,0,2,0,4,n02815834 beaker
+image_coffe_cup/coffe_cpu_173.jpg,10000,32,0,2,0,32,n02815834 beaker
+image_coffe_cup/coffe_cpu_174.jpg,10000,32,0,2,0.25,0,n02815834 beaker
+image_coffe_cup/coffe_cpu_175.jpg,10000,32,0,2,0.25,4,n02815834 beaker
+image_coffe_cup/coffe_cpu_176.jpg,10000,32,0,2,0.25,32,n02815834 beaker
+image_coffe_cup/coffe_cpu_177.jpg,10000,32,0,2,0.75,0,n02815834 beaker
+image_coffe_cup/coffe_cpu_178.jpg,10000,32,0,2,0.75,4,n02815834 beaker
+image_coffe_cup/coffe_cpu_179.jpg,10000,32,0,2,0.75,32,n02815834 beaker
+image_coffe_cup/coffe_cpu_180.jpg,10000,32,0,4,0,0,n02815834 beaker
+image_coffe_cup/coffe_cpu_181.jpg,10000,32,0,4,0,4,n02815834 beaker
+image_coffe_cup/coffe_cpu_182.jpg,10000,32,0,4,0,32,n02815834 beaker
+image_coffe_cup/coffe_cpu_183.jpg,10000,32,0,4,0.25,0,n02815834 beaker
+image_coffe_cup/coffe_cpu_184.jpg,10000,32,0,4,0.25,4,n02815834 beaker
+image_coffe_cup/coffe_cpu_185.jpg,10000,32,0,4,0.25,32,n02815834 beaker
+image_coffe_cup/coffe_cpu_186.jpg,10000,32,0,4,0.75,0,n02815834 beaker
+image_coffe_cup/coffe_cpu_187.jpg,10000,32,0,4,0.75,4,n02815834 beaker
+image_coffe_cup/coffe_cpu_188.jpg,10000,32,0,4,0.75,32,n02815834 beaker
+image_coffe_cup/coffe_cpu_189.jpg,10000,32,0.25,0,0,0,n02815834 beaker
+image_coffe_cup/coffe_cpu_190.jpg,10000,32,0.25,0,0,4,n02815834 beaker
+image_coffe_cup/coffe_cpu_191.jpg,10000,32,0.25,0,0,32,n02815834 beaker
+image_coffe_cup/coffe_cpu_192.jpg,10000,32,0.25,0,0.25,0,n02815834 beaker
+image_coffe_cup/coffe_cpu_193.jpg,10000,32,0.25,0,0.25,4,n02815834 beaker
+image_coffe_cup/coffe_cpu_194.jpg,10000,32,0.25,0,0.25,32,n02815834 beaker
+image_coffe_cup/coffe_cpu_195.jpg,10000,32,0.25,0,0.75,0,n02815834 beaker
+image_coffe_cup/coffe_cpu_196.jpg,10000,32,0.25,0,0.75,4,n02815834 beaker
+image_coffe_cup/coffe_cpu_197.jpg,10000,32,0.25,0,0.75,32,n02815834 beaker
+image_coffe_cup/coffe_cpu_198.jpg,10000,32,0.25,2,0,0,n02815834 beaker
+image_coffe_cup/coffe_cpu_199.jpg,10000,32,0.25,2,0,4,n02815834 beaker
+image_coffe_cup/coffe_cpu_200.jpg,10000,32,0.25,2,0,32,n02815834 beaker
+image_coffe_cup/coffe_cpu_201.jpg,10000,32,0.25,2,0.25,0,n02815834 beaker
+image_coffe_cup/coffe_cpu_202.jpg,10000,32,0.25,2,0.25,4,n02815834 beaker
+image_coffe_cup/coffe_cpu_203.jpg,10000,32,0.25,2,0.25,32,n02815834 beaker
+image_coffe_cup/coffe_cpu_204.jpg,10000,32,0.25,2,0.75,0,n02815834 beaker
+image_coffe_cup/coffe_cpu_205.jpg,10000,32,0.25,2,0.75,4,n02815834 beaker
+image_coffe_cup/coffe_cpu_206.jpg,10000,32,0.25,2,0.75,32,n02815834 beaker
+image_coffe_cup/coffe_cpu_207.jpg,10000,32,0.25,4,0,0,n02815834 beaker
+image_coffe_cup/coffe_cpu_208.jpg,10000,32,0.25,4,0,4,n02815834 beaker
+image_coffe_cup/coffe_cpu_209.jpg,10000,32,0.25,4,0,32,n02815834 beaker
+image_coffe_cup/coffe_cpu_210.jpg,10000,32,0.25,4,0.25,0,n02815834 beaker
+image_coffe_cup/coffe_cpu_211.jpg,10000,32,0.25,4,0.25,4,n02815834 beaker
+image_coffe_cup/coffe_cpu_212.jpg,10000,32,0.25,4,0.25,32,n02815834 beaker
+image_coffe_cup/coffe_cpu_213.jpg,10000,32,0.25,4,0.75,0,n02815834 beaker
+image_coffe_cup/coffe_cpu_214.jpg,10000,32,0.25,4,0.75,4,n02815834 beaker
+image_coffe_cup/coffe_cpu_215.jpg,10000,32,0.25,4,0.75,32,n02815834 beaker
+image_coffe_cup/coffe_cpu_216.jpg,10000,32,0.75,0,0,0,n02815834 beaker
+image_coffe_cup/coffe_cpu_217.jpg,10000,32,0.75,0,0,4,n02815834 beaker
+image_coffe_cup/coffe_cpu_218.jpg,10000,32,0.75,0,0,32,n02815834 beaker
+image_coffe_cup/coffe_cpu_219.jpg,10000,32,0.75,0,0.25,0,n02815834 beaker
+image_coffe_cup/coffe_cpu_220.jpg,10000,32,0.75,0,0.25,4,n02815834 beaker
+image_coffe_cup/coffe_cpu_221.jpg,10000,32,0.75,0,0.25,32,n02815834 beaker
+image_coffe_cup/coffe_cpu_222.jpg,10000,32,0.75,0,0.75,0,n02815834 beaker
+image_coffe_cup/coffe_cpu_223.jpg,10000,32,0.75,0,0.75,4,n02815834 beaker
+image_coffe_cup/coffe_cpu_224.jpg,10000,32,0.75,0,0.75,32,n02815834 beaker
+image_coffe_cup/coffe_cpu_225.jpg,10000,32,0.75,2,0,0,n02815834 beaker
+image_coffe_cup/coffe_cpu_226.jpg,10000,32,0.75,2,0,4,n02815834 beaker
+image_coffe_cup/coffe_cpu_227.jpg,10000,32,0.75,2,0,32,n02815834 beaker
+image_coffe_cup/coffe_cpu_228.jpg,10000,32,0.75,2,0.25,0,n03937543 pill bottle
+image_coffe_cup/coffe_cpu_229.jpg,10000,32,0.75,2,0.25,4,n02815834 beaker
+image_coffe_cup/coffe_cpu_230.jpg,10000,32,0.75,2,0.25,32,n02815834 beaker
+image_coffe_cup/coffe_cpu_231.jpg,10000,32,0.75,2,0.75,0,n02815834 beaker
+image_coffe_cup/coffe_cpu_232.jpg,10000,32,0.75,2,0.75,4,n02815834 beaker
+image_coffe_cup/coffe_cpu_233.jpg,10000,32,0.75,2,0.75,32,n02815834 beaker
+image_coffe_cup/coffe_cpu_234.jpg,10000,32,0.75,4,0,0,n02815834 beaker
+image_coffe_cup/coffe_cpu_235.jpg,10000,32,0.75,4,0,4,n02815834 beaker
+image_coffe_cup/coffe_cpu_236.jpg,10000,32,0.75,4,0,32,n02815834 beaker
+image_coffe_cup/coffe_cpu_237.jpg,10000,32,0.75,4,0.25,0,n02815834 beaker
+image_coffe_cup/coffe_cpu_238.jpg,10000,32,0.75,4,0.25,4,n02815834 beaker
+image_coffe_cup/coffe_cpu_239.jpg,10000,32,0.75,4,0.25,32,n02815834 beaker
+image_coffe_cup/coffe_cpu_240.jpg,10000,32,0.75,4,0.75,0,n03937543 pill bottle
+image_coffe_cup/coffe_cpu_241.jpg,10000,32,0.75,4,0.75,4,n02815834 beaker
+image_coffe_cup/coffe_cpu_242.jpg,10000,32,0.75,4,0.75,32,n02815834 beaker
+image_coffe_cup/coffe_cpu_243.jpg,500000,0,0,0,0,0,n02815834 beaker
+image_coffe_cup/coffe_cpu_244.jpg,500000,0,0,0,0,4,n02815834 beaker
+image_coffe_cup/coffe_cpu_245.jpg,500000,0,0,0,0,32,n02815834 beaker
+image_coffe_cup/coffe_cpu_246.jpg,500000,0,0,0,0.25,0,n02815834 beaker
+image_coffe_cup/coffe_cpu_247.jpg,500000,0,0,0,0.25,4,n02815834 beaker
+image_coffe_cup/coffe_cpu_248.jpg,500000,0,0,0,0.25,32,n02815834 beaker
+image_coffe_cup/coffe_cpu_249.jpg,500000,0,0,0,0.75,0,n02815834 beaker
+image_coffe_cup/coffe_cpu_250.jpg,500000,0,0,0,0.75,4,n02815834 beaker
+image_coffe_cup/coffe_cpu_251.jpg,500000,0,0,0,0.75,32,n02815834 beaker
+image_coffe_cup/coffe_cpu_252.jpg,500000,0,0,2,0,0,n02815834 beaker
+image_coffe_cup/coffe_cpu_253.jpg,500000,0,0,2,0,4,n02815834 beaker
+image_coffe_cup/coffe_cpu_254.jpg,500000,0,0,2,0,32,n02815834 beaker
+image_coffe_cup/coffe_cpu_255.jpg,500000,0,0,2,0.25,0,n02815834 beaker
+image_coffe_cup/coffe_cpu_256.jpg,500000,0,0,2,0.25,4,n02815834 beaker
+image_coffe_cup/coffe_cpu_257.jpg,500000,0,0,2,0.25,32,n02815834 beaker
+image_coffe_cup/coffe_cpu_258.jpg,500000,0,0,2,0.75,0,n02815834 beaker
+image_coffe_cup/coffe_cpu_259.jpg,500000,0,0,2,0.75,4,n02815834 beaker
+image_coffe_cup/coffe_cpu_260.jpg,500000,0,0,2,0.75,32,n02815834 beaker
+image_coffe_cup/coffe_cpu_261.jpg,500000,0,0,4,0,0,n02815834 beaker
+image_coffe_cup/coffe_cpu_262.jpg,500000,0,0,4,0,4,n02815834 beaker
+image_coffe_cup/coffe_cpu_263.jpg,500000,0,0,4,0,32,n02815834 beaker
+image_coffe_cup/coffe_cpu_264.jpg,500000,0,0,4,0.25,0,n02815834 beaker
+image_coffe_cup/coffe_cpu_265.jpg,500000,0,0,4,0.25,4,n02815834 beaker
+image_coffe_cup/coffe_cpu_266.jpg,500000,0,0,4,0.25,32,n02815834 beaker
+image_coffe_cup/coffe_cpu_267.jpg,500000,0,0,4,0.75,0,n02815834 beaker
+image_coffe_cup/coffe_cpu_268.jpg,500000,0,0,4,0.75,4,n02815834 beaker
+image_coffe_cup/coffe_cpu_269.jpg,500000,0,0,4,0.75,32,n02815834 beaker
+image_coffe_cup/coffe_cpu_270.jpg,500000,0,0.25,0,0,0,n02815834 beaker
+image_coffe_cup/coffe_cpu_271.jpg,500000,0,0.25,0,0,4,n02815834 beaker
+image_coffe_cup/coffe_cpu_272.jpg,500000,0,0.25,0,0,32,n02815834 beaker
+image_coffe_cup/coffe_cpu_273.jpg,500000,0,0.25,0,0.25,0,n02815834 beaker
+image_coffe_cup/coffe_cpu_274.jpg,500000,0,0.25,0,0.25,4,n02815834 beaker
+image_coffe_cup/coffe_cpu_275.jpg,500000,0,0.25,0,0.25,32,n02815834 beaker
+image_coffe_cup/coffe_cpu_276.jpg,500000,0,0.25,0,0.75,0,n02815834 beaker
+image_coffe_cup/coffe_cpu_277.jpg,500000,0,0.25,0,0.75,4,n02815834 beaker
+image_coffe_cup/coffe_cpu_278.jpg,500000,0,0.25,0,0.75,32,n02815834 beaker
+image_coffe_cup/coffe_cpu_279.jpg,500000,0,0.25,2,0,0,n02815834 beaker
+image_coffe_cup/coffe_cpu_280.jpg,500000,0,0.25,2,0,4,n02815834 beaker
+image_coffe_cup/coffe_cpu_281.jpg,500000,0,0.25,2,0,32,n02815834 beaker
+image_coffe_cup/coffe_cpu_282.jpg,500000,0,0.25,2,0.25,0,n02815834 beaker
+image_coffe_cup/coffe_cpu_283.jpg,500000,0,0.25,2,0.25,4,n02815834 beaker
+image_coffe_cup/coffe_cpu_284.jpg,500000,0,0.25,2,0.25,32,n02815834 beaker
+image_coffe_cup/coffe_cpu_285.jpg,500000,0,0.25,2,0.75,0,n02815834 beaker
+image_coffe_cup/coffe_cpu_286.jpg,500000,0,0.25,2,0.75,4,n02815834 beaker
+image_coffe_cup/coffe_cpu_287.jpg,500000,0,0.25,2,0.75,32,n02815834 beaker
+image_coffe_cup/coffe_cpu_288.jpg,500000,0,0.25,4,0,0,n02815834 beaker
+image_coffe_cup/coffe_cpu_289.jpg,500000,0,0.25,4,0,4,n02815834 beaker
+image_coffe_cup/coffe_cpu_290.jpg,500000,0,0.25,4,0,32,n02815834 beaker
+image_coffe_cup/coffe_cpu_291.jpg,500000,0,0.25,4,0.25,0,n02815834 beaker
+image_coffe_cup/coffe_cpu_292.jpg,500000,0,0.25,4,0.25,4,n02815834 beaker
+image_coffe_cup/coffe_cpu_293.jpg,500000,0,0.25,4,0.25,32,n02815834 beaker
+image_coffe_cup/coffe_cpu_294.jpg,500000,0,0.25,4,0.75,0,n02815834 beaker
+image_coffe_cup/coffe_cpu_295.jpg,500000,0,0.25,4,0.75,4,n02815834 beaker
+image_coffe_cup/coffe_cpu_296.jpg,500000,0,0.25,4,0.75,32,n02815834 beaker
+image_coffe_cup/coffe_cpu_297.jpg,500000,0,0.75,0,0,0,n02815834 beaker
+image_coffe_cup/coffe_cpu_298.jpg,500000,0,0.75,0,0,4,n02815834 beaker
+image_coffe_cup/coffe_cpu_299.jpg,500000,0,0.75,0,0,32,n02815834 beaker
+image_coffe_cup/coffe_cpu_300.jpg,500000,0,0.75,0,0.25,0,n02815834 beaker
+image_coffe_cup/coffe_cpu_301.jpg,500000,0,0.75,0,0.25,4,n02815834 beaker
+image_coffe_cup/coffe_cpu_302.jpg,500000,0,0.75,0,0.25,32,n02815834 beaker
+image_coffe_cup/coffe_cpu_303.jpg,500000,0,0.75,0,0.75,0,n02815834 beaker
+image_coffe_cup/coffe_cpu_304.jpg,500000,0,0.75,0,0.75,4,n02815834 beaker
+image_coffe_cup/coffe_cpu_305.jpg,500000,0,0.75,0,0.75,32,n02815834 beaker
+image_coffe_cup/coffe_cpu_306.jpg,500000,0,0.75,2,0,0,n02815834 beaker
+image_coffe_cup/coffe_cpu_307.jpg,500000,0,0.75,2,0,4,n02815834 beaker
+image_coffe_cup/coffe_cpu_308.jpg,500000,0,0.75,2,0,32,n02815834 beaker
+image_coffe_cup/coffe_cpu_309.jpg,500000,0,0.75,2,0.25,0,n02815834 beaker
+image_coffe_cup/coffe_cpu_310.jpg,500000,0,0.75,2,0.25,4,n02815834 beaker
+image_coffe_cup/coffe_cpu_311.jpg,500000,0,0.75,2,0.25,32,n02815834 beaker
+image_coffe_cup/coffe_cpu_312.jpg,500000,0,0.75,2,0.75,0,n02815834 beaker
+image_coffe_cup/coffe_cpu_313.jpg,500000,0,0.75,2,0.75,4,n02815834 beaker
+image_coffe_cup/coffe_cpu_314.jpg,500000,0,0.75,2,0.75,32,n02815834 beaker
+image_coffe_cup/coffe_cpu_315.jpg,500000,0,0.75,4,0,0,n02815834 beaker
+image_coffe_cup/coffe_cpu_316.jpg,500000,0,0.75,4,0,4,n02815834 beaker
+image_coffe_cup/coffe_cpu_317.jpg,500000,0,0.75,4,0,32,n02815834 beaker
+image_coffe_cup/coffe_cpu_318.jpg,500000,0,0.75,4,0.25,0,n02815834 beaker
+image_coffe_cup/coffe_cpu_319.jpg,500000,0,0.75,4,0.25,4,n02815834 beaker
+image_coffe_cup/coffe_cpu_320.jpg,500000,0,0.75,4,0.25,32,n02815834 beaker
+image_coffe_cup/coffe_cpu_321.jpg,500000,0,0.75,4,0.75,0,n02815834 beaker
+image_coffe_cup/coffe_cpu_322.jpg,500000,0,0.75,4,0.75,4,n02815834 beaker
+image_coffe_cup/coffe_cpu_323.jpg,500000,0,0.75,4,0.75,32,n02815834 beaker
+image_coffe_cup/coffe_cpu_324.jpg,500000,4,0,0,0,0,n02815834 beaker
+image_coffe_cup/coffe_cpu_325.jpg,500000,4,0,0,0,4,n02815834 beaker
+image_coffe_cup/coffe_cpu_326.jpg,500000,4,0,0,0,32,n02815834 beaker
+image_coffe_cup/coffe_cpu_327.jpg,500000,4,0,0,0.25,0,n02815834 beaker
+image_coffe_cup/coffe_cpu_328.jpg,500000,4,0,0,0.25,4,n02815834 beaker
+image_coffe_cup/coffe_cpu_329.jpg,500000,4,0,0,0.25,32,n02815834 beaker
+image_coffe_cup/coffe_cpu_330.jpg,500000,4,0,0,0.75,0,n02815834 beaker
+image_coffe_cup/coffe_cpu_331.jpg,500000,4,0,0,0.75,4,n02815834 beaker
+image_coffe_cup/coffe_cpu_332.jpg,500000,4,0,0,0.75,32,n02815834 beaker
+image_coffe_cup/coffe_cpu_333.jpg,500000,4,0,2,0,0,n02815834 beaker
+image_coffe_cup/coffe_cpu_334.jpg,500000,4,0,2,0,4,n02815834 beaker
+image_coffe_cup/coffe_cpu_335.jpg,500000,4,0,2,0,32,n02815834 beaker
+image_coffe_cup/coffe_cpu_336.jpg,500000,4,0,2,0.25,0,n02815834 beaker
+image_coffe_cup/coffe_cpu_337.jpg,500000,4,0,2,0.25,4,n02815834 beaker
+image_coffe_cup/coffe_cpu_338.jpg,500000,4,0,2,0.25,32,n02815834 beaker
+image_coffe_cup/coffe_cpu_339.jpg,500000,4,0,2,0.75,0,n02815834 beaker
+image_coffe_cup/coffe_cpu_340.jpg,500000,4,0,2,0.75,4,n02815834 beaker
+image_coffe_cup/coffe_cpu_341.jpg,500000,4,0,2,0.75,32,n02815834 beaker
+image_coffe_cup/coffe_cpu_342.jpg,500000,4,0,4,0,0,n02815834 beaker
+image_coffe_cup/coffe_cpu_343.jpg,500000,4,0,4,0,4,n02815834 beaker
+image_coffe_cup/coffe_cpu_344.jpg,500000,4,0,4,0,32,n02815834 beaker
+image_coffe_cup/coffe_cpu_345.jpg,500000,4,0,4,0.25,0,n02815834 beaker
+image_coffe_cup/coffe_cpu_346.jpg,500000,4,0,4,0.25,4,n02815834 beaker
+image_coffe_cup/coffe_cpu_347.jpg,500000,4,0,4,0.25,32,n02815834 beaker
+image_coffe_cup/coffe_cpu_348.jpg,500000,4,0,4,0.75,0,n02815834 beaker
+image_coffe_cup/coffe_cpu_349.jpg,500000,4,0,4,0.75,4,n02815834 beaker
+image_coffe_cup/coffe_cpu_350.jpg,500000,4,0,4,0.75,32,n02815834 beaker
+image_coffe_cup/coffe_cpu_351.jpg,500000,4,0.25,0,0,0,n02815834 beaker
+image_coffe_cup/coffe_cpu_352.jpg,500000,4,0.25,0,0,4,n02815834 beaker
+image_coffe_cup/coffe_cpu_353.jpg,500000,4,0.25,0,0,32,n02815834 beaker
+image_coffe_cup/coffe_cpu_354.jpg,500000,4,0.25,0,0.25,0,n02815834 beaker
+image_coffe_cup/coffe_cpu_355.jpg,500000,4,0.25,0,0.25,4,n02815834 beaker
+image_coffe_cup/coffe_cpu_356.jpg,500000,4,0.25,0,0.25,32,n02815834 beaker
+image_coffe_cup/coffe_cpu_357.jpg,500000,4,0.25,0,0.75,0,n02815834 beaker
+image_coffe_cup/coffe_cpu_358.jpg,500000,4,0.25,0,0.75,4,n02815834 beaker
+image_coffe_cup/coffe_cpu_359.jpg,500000,4,0.25,0,0.75,32,n02815834 beaker
+image_coffe_cup/coffe_cpu_360.jpg,500000,4,0.25,2,0,0,n02815834 beaker
+image_coffe_cup/coffe_cpu_361.jpg,500000,4,0.25,2,0,4,n02815834 beaker
+image_coffe_cup/coffe_cpu_362.jpg,500000,4,0.25,2,0,32,n02815834 beaker
+image_coffe_cup/coffe_cpu_363.jpg,500000,4,0.25,2,0.25,0,n02815834 beaker
+image_coffe_cup/coffe_cpu_364.jpg,500000,4,0.25,2,0.25,4,n02815834 beaker
+image_coffe_cup/coffe_cpu_365.jpg,500000,4,0.25,2,0.25,32,n02815834 beaker
+image_coffe_cup/coffe_cpu_366.jpg,500000,4,0.25,2,0.75,0,n02815834 beaker
+image_coffe_cup/coffe_cpu_367.jpg,500000,4,0.25,2,0.75,4,n02815834 beaker
+image_coffe_cup/coffe_cpu_368.jpg,500000,4,0.25,2,0.75,32,n02815834 beaker
+image_coffe_cup/coffe_cpu_369.jpg,500000,4,0.25,4,0,0,n02815834 beaker
+image_coffe_cup/coffe_cpu_370.jpg,500000,4,0.25,4,0,4,n02815834 beaker
+image_coffe_cup/coffe_cpu_371.jpg,500000,4,0.25,4,0,32,n02815834 beaker
+image_coffe_cup/coffe_cpu_372.jpg,500000,4,0.25,4,0.25,0,n02815834 beaker
+image_coffe_cup/coffe_cpu_373.jpg,500000,4,0.25,4,0.25,4,n02815834 beaker
+image_coffe_cup/coffe_cpu_374.jpg,500000,4,0.25,4,0.25,32,n02815834 beaker
+image_coffe_cup/coffe_cpu_375.jpg,500000,4,0.25,4,0.75,0,n02815834 beaker
+image_coffe_cup/coffe_cpu_376.jpg,500000,4,0.25,4,0.75,4,n02815834 beaker
+image_coffe_cup/coffe_cpu_377.jpg,500000,4,0.25,4,0.75,32,n02815834 beaker
+image_coffe_cup/coffe_cpu_378.jpg,500000,4,0.75,0,0,0,n02815834 beaker
+image_coffe_cup/coffe_cpu_379.jpg,500000,4,0.75,0,0,4,n02815834 beaker
+image_coffe_cup/coffe_cpu_380.jpg,500000,4,0.75,0,0,32,n02815834 beaker
+image_coffe_cup/coffe_cpu_381.jpg,500000,4,0.75,0,0.25,0,n02815834 beaker
+image_coffe_cup/coffe_cpu_382.jpg,500000,4,0.75,0,0.25,4,n02815834 beaker
+image_coffe_cup/coffe_cpu_383.jpg,500000,4,0.75,0,0.25,32,n02815834 beaker
+image_coffe_cup/coffe_cpu_384.jpg,500000,4,0.75,0,0.75,0,n02815834 beaker
+image_coffe_cup/coffe_cpu_385.jpg,500000,4,0.75,0,0.75,4,n02815834 beaker
+image_coffe_cup/coffe_cpu_386.jpg,500000,4,0.75,0,0.75,32,n02815834 beaker
+image_coffe_cup/coffe_cpu_387.jpg,500000,4,0.75,2,0,0,n02815834 beaker
+image_coffe_cup/coffe_cpu_388.jpg,500000,4,0.75,2,0,4,n02815834 beaker
+image_coffe_cup/coffe_cpu_389.jpg,500000,4,0.75,2,0,32,n02815834 beaker
+image_coffe_cup/coffe_cpu_390.jpg,500000,4,0.75,2,0.25,0,n02815834 beaker
+image_coffe_cup/coffe_cpu_391.jpg,500000,4,0.75,2,0.25,4,n02815834 beaker
+image_coffe_cup/coffe_cpu_392.jpg,500000,4,0.75,2,0.25,32,n02815834 beaker
+image_coffe_cup/coffe_cpu_393.jpg,500000,4,0.75,2,0.75,0,n02815834 beaker
+image_coffe_cup/coffe_cpu_394.jpg,500000,4,0.75,2,0.75,4,n02815834 beaker
+image_coffe_cup/coffe_cpu_395.jpg,500000,4,0.75,2,0.75,32,n02815834 beaker
+image_coffe_cup/coffe_cpu_396.jpg,500000,4,0.75,4,0,0,n02815834 beaker
+image_coffe_cup/coffe_cpu_397.jpg,500000,4,0.75,4,0,4,n02815834 beaker
+image_coffe_cup/coffe_cpu_398.jpg,500000,4,0.75,4,0,32,n02815834 beaker
+image_coffe_cup/coffe_cpu_399.jpg,500000,4,0.75,4,0.25,0,n02815834 beaker
+image_coffe_cup/coffe_cpu_400.jpg,500000,4,0.75,4,0.25,4,n02815834 beaker
+image_coffe_cup/coffe_cpu_401.jpg,500000,4,0.75,4,0.25,32,n02815834 beaker
+image_coffe_cup/coffe_cpu_402.jpg,500000,4,0.75,4,0.75,0,n02815834 beaker
+image_coffe_cup/coffe_cpu_403.jpg,500000,4,0.75,4,0.75,4,n02815834 beaker
+image_coffe_cup/coffe_cpu_404.jpg,500000,4,0.75,4,0.75,32,n02815834 beaker
+image_coffe_cup/coffe_cpu_405.jpg,500000,32,0,0,0,0,n15075141 toilet tissue, toilet paper, bathroom tissue
+image_coffe_cup/coffe_cpu_406.jpg,500000,32,0,0,0,4,n04116512 rubber eraser, rubber, pencil eraser
+image_coffe_cup/coffe_cpu_407.jpg,500000,32,0,0,0,32,n04116512 rubber eraser, rubber, pencil eraser
+image_coffe_cup/coffe_cpu_408.jpg,500000,32,0,0,0.25,0,n04131690 saltshaker, salt shaker
+image_coffe_cup/coffe_cpu_409.jpg,500000,32,0,0,0.25,4,n04116512 rubber eraser, rubber, pencil eraser
+image_coffe_cup/coffe_cpu_410.jpg,500000,32,0,0,0.25,32,n04116512 rubber eraser, rubber, pencil eraser
+image_coffe_cup/coffe_cpu_411.jpg,500000,32,0,0,0.75,0,n04116512 rubber eraser, rubber, pencil eraser
+image_coffe_cup/coffe_cpu_412.jpg,500000,32,0,0,0.75,4,n04116512 rubber eraser, rubber, pencil eraser
+image_coffe_cup/coffe_cpu_413.jpg,500000,32,0,0,0.75,32,n04116512 rubber eraser, rubber, pencil eraser
+image_coffe_cup/coffe_cpu_414.jpg,500000,32,0,2,0,0,n04116512 rubber eraser, rubber, pencil eraser
+image_coffe_cup/coffe_cpu_415.jpg,500000,32,0,2,0,4,n04116512 rubber eraser, rubber, pencil eraser
+image_coffe_cup/coffe_cpu_416.jpg,500000,32,0,2,0,32,n15075141 toilet tissue, toilet paper, bathroom tissue
+image_coffe_cup/coffe_cpu_417.jpg,500000,32,0,2,0.25,0,n04116512 rubber eraser, rubber, pencil eraser
+image_coffe_cup/coffe_cpu_418.jpg,500000,32,0,2,0.25,4,n04116512 rubber eraser, rubber, pencil eraser
+image_coffe_cup/coffe_cpu_419.jpg,500000,32,0,2,0.25,32,n04116512 rubber eraser, rubber, pencil eraser
+image_coffe_cup/coffe_cpu_420.jpg,500000,32,0,2,0.75,0,n03937543 pill bottle
+image_coffe_cup/coffe_cpu_421.jpg,500000,32,0,2,0.75,4,n04116512 rubber eraser, rubber, pencil eraser
+image_coffe_cup/coffe_cpu_422.jpg,500000,32,0,2,0.75,32,n04116512 rubber eraser, rubber, pencil eraser
+image_coffe_cup/coffe_cpu_423.jpg,500000,32,0,4,0,0,n04116512 rubber eraser, rubber, pencil eraser
+image_coffe_cup/coffe_cpu_424.jpg,500000,32,0,4,0,4,n04116512 rubber eraser, rubber, pencil eraser
+image_coffe_cup/coffe_cpu_425.jpg,500000,32,0,4,0,32,n03937543 pill bottle
+image_coffe_cup/coffe_cpu_426.jpg,500000,32,0,4,0.25,0,n04131690 saltshaker, salt shaker
+image_coffe_cup/coffe_cpu_427.jpg,500000,32,0,4,0.25,4,n04116512 rubber eraser, rubber, pencil eraser
+image_coffe_cup/coffe_cpu_428.jpg,500000,32,0,4,0.25,32,n04116512 rubber eraser, rubber, pencil eraser
+image_coffe_cup/coffe_cpu_429.jpg,500000,32,0,4,0.75,0,n15075141 toilet tissue, toilet paper, bathroom tissue
+image_coffe_cup/coffe_cpu_430.jpg,500000,32,0,4,0.75,4,n04116512 rubber eraser, rubber, pencil eraser
+image_coffe_cup/coffe_cpu_431.jpg,500000,32,0,4,0.75,32,n04131690 saltshaker, salt shaker
+image_coffe_cup/coffe_cpu_432.jpg,500000,32,0.25,0,0,0,n04116512 rubber eraser, rubber, pencil eraser
+image_coffe_cup/coffe_cpu_433.jpg,500000,32,0.25,0,0,4,n04116512 rubber eraser, rubber, pencil eraser
+image_coffe_cup/coffe_cpu_434.jpg,500000,32,0.25,0,0,32,n04131690 saltshaker, salt shaker
+image_coffe_cup/coffe_cpu_435.jpg,500000,32,0.25,0,0.25,0,n04116512 rubber eraser, rubber, pencil eraser
+image_coffe_cup/coffe_cpu_436.jpg,500000,32,0.25,0,0.25,4,n04116512 rubber eraser, rubber, pencil eraser
+image_coffe_cup/coffe_cpu_437.jpg,500000,32,0.25,0,0.25,32,n15075141 toilet tissue, toilet paper, bathroom tissue
+image_coffe_cup/coffe_cpu_438.jpg,500000,32,0.25,0,0.75,0,n03937543 pill bottle
+image_coffe_cup/coffe_cpu_439.jpg,500000,32,0.25,0,0.75,4,n15075141 toilet tissue, toilet paper, bathroom tissue
+image_coffe_cup/coffe_cpu_440.jpg,500000,32,0.25,0,0.75,32,n04116512 rubber eraser, rubber, pencil eraser
+image_coffe_cup/coffe_cpu_441.jpg,500000,32,0.25,2,0,0,n04131690 saltshaker, salt shaker
+image_coffe_cup/coffe_cpu_442.jpg,500000,32,0.25,2,0,4,n04116512 rubber eraser, rubber, pencil eraser
+image_coffe_cup/coffe_cpu_443.jpg,500000,32,0.25,2,0,32,n03937543 pill bottle
+image_coffe_cup/coffe_cpu_444.jpg,500000,32,0.25,2,0.25,0,n04131690 saltshaker, salt shaker
+image_coffe_cup/coffe_cpu_445.jpg,500000,32,0.25,2,0.25,4,n04116512 rubber eraser, rubber, pencil eraser
+image_coffe_cup/coffe_cpu_446.jpg,500000,32,0.25,2,0.25,32,n04116512 rubber eraser, rubber, pencil eraser
+image_coffe_cup/coffe_cpu_447.jpg,500000,32,0.25,2,0.75,0,n04116512 rubber eraser, rubber, pencil eraser
+image_coffe_cup/coffe_cpu_448.jpg,500000,32,0.25,2,0.75,4,n04116512 rubber eraser, rubber, pencil eraser
+image_coffe_cup/coffe_cpu_449.jpg,500000,32,0.25,2,0.75,32,n04131690 saltshaker, salt shaker
+image_coffe_cup/coffe_cpu_450.jpg,500000,32,0.25,4,0,0,n04116512 rubber eraser, rubber, pencil eraser
+image_coffe_cup/coffe_cpu_451.jpg,500000,32,0.25,4,0,4,n04116512 rubber eraser, rubber, pencil eraser
+image_coffe_cup/coffe_cpu_452.jpg,500000,32,0.25,4,0,32,n04116512 rubber eraser, rubber, pencil eraser
+image_coffe_cup/coffe_cpu_453.jpg,500000,32,0.25,4,0.25,0,n04131690 saltshaker, salt shaker
+image_coffe_cup/coffe_cpu_454.jpg,500000,32,0.25,4,0.25,4,n04116512 rubber eraser, rubber, pencil eraser
+image_coffe_cup/coffe_cpu_455.jpg,500000,32,0.25,4,0.25,32,n04131690 saltshaker, salt shaker
+image_coffe_cup/coffe_cpu_456.jpg,500000,32,0.25,4,0.75,0,n04116512 rubber eraser, rubber, pencil eraser
+image_coffe_cup/coffe_cpu_457.jpg,500000,32,0.25,4,0.75,4,n04116512 rubber eraser, rubber, pencil eraser
+image_coffe_cup/coffe_cpu_458.jpg,500000,32,0.25,4,0.75,32,n03937543 pill bottle
+image_coffe_cup/coffe_cpu_459.jpg,500000,32,0.75,0,0,0,n03937543 pill bottle
+image_coffe_cup/coffe_cpu_460.jpg,500000,32,0.75,0,0,4,n04116512 rubber eraser, rubber, pencil eraser
+image_coffe_cup/coffe_cpu_461.jpg,500000,32,0.75,0,0,32,n04116512 rubber eraser, rubber, pencil eraser
+image_coffe_cup/coffe_cpu_462.jpg,500000,32,0.75,0,0.25,0,n04131690 saltshaker, salt shaker
+image_coffe_cup/coffe_cpu_463.jpg,500000,32,0.75,0,0.25,4,n04116512 rubber eraser, rubber, pencil eraser
+image_coffe_cup/coffe_cpu_464.jpg,500000,32,0.75,0,0.25,32,n04116512 rubber eraser, rubber, pencil eraser
+image_coffe_cup/coffe_cpu_465.jpg,500000,32,0.75,0,0.75,0,n04116512 rubber eraser, rubber, pencil eraser
+image_coffe_cup/coffe_cpu_466.jpg,500000,32,0.75,0,0.75,4,n04116512 rubber eraser, rubber, pencil eraser
+image_coffe_cup/coffe_cpu_467.jpg,500000,32,0.75,0,0.75,32,n04116512 rubber eraser, rubber, pencil eraser
+image_coffe_cup/coffe_cpu_468.jpg,500000,32,0.75,2,0,0,n04116512 rubber eraser, rubber, pencil eraser
+image_coffe_cup/coffe_cpu_469.jpg,500000,32,0.75,2,0,4,n04116512 rubber eraser, rubber, pencil eraser
+image_coffe_cup/coffe_cpu_470.jpg,500000,32,0.75,2,0,32,n04116512 rubber eraser, rubber, pencil eraser
+image_coffe_cup/coffe_cpu_471.jpg,500000,32,0.75,2,0.25,0,n04116512 rubber eraser, rubber, pencil eraser
+image_coffe_cup/coffe_cpu_472.jpg,500000,32,0.75,2,0.25,4,n04116512 rubber eraser, rubber, pencil eraser
+image_coffe_cup/coffe_cpu_473.jpg,500000,32,0.75,2,0.25,32,n04116512 rubber eraser, rubber, pencil eraser
+image_coffe_cup/coffe_cpu_474.jpg,500000,32,0.75,2,0.75,0,n03937543 pill bottle
+image_coffe_cup/coffe_cpu_475.jpg,500000,32,0.75,2,0.75,4,n15075141 toilet tissue, toilet paper, bathroom tissue
+image_coffe_cup/coffe_cpu_476.jpg,500000,32,0.75,2,0.75,32,n04116512 rubber eraser, rubber, pencil eraser
+image_coffe_cup/coffe_cpu_477.jpg,500000,32,0.75,4,0,0,n04116512 rubber eraser, rubber, pencil eraser
+image_coffe_cup/coffe_cpu_478.jpg,500000,32,0.75,4,0,4,n04116512 rubber eraser, rubber, pencil eraser
+image_coffe_cup/coffe_cpu_479.jpg,500000,32,0.75,4,0,32,n04116512 rubber eraser, rubber, pencil eraser
+image_coffe_cup/coffe_cpu_480.jpg,500000,32,0.75,4,0.25,0,n04116512 rubber eraser, rubber, pencil eraser
+image_coffe_cup/coffe_cpu_481.jpg,500000,32,0.75,4,0.25,4,n03937543 pill bottle
+image_coffe_cup/coffe_cpu_482.jpg,500000,32,0.75,4,0.25,32,n04116512 rubber eraser, rubber, pencil eraser
+image_coffe_cup/coffe_cpu_483.jpg,500000,32,0.75,4,0.75,0,n04116512 rubber eraser, rubber, pencil eraser
+image_coffe_cup/coffe_cpu_484.jpg,500000,32,0.75,4,0.75,4,n04116512 rubber eraser, rubber, pencil eraser
+image_coffe_cup/coffe_cpu_485.jpg,500000,32,0.75,4,0.75,32,n04116512 rubber eraser, rubber, pencil eraser
+image_coffe_cup/coffe_cpu_486.jpg,999999,0,0,0,0,0,n02815834 beaker
+image_coffe_cup/coffe_cpu_487.jpg,999999,0,0,0,0,4,n02815834 beaker
+image_coffe_cup/coffe_cpu_488.jpg,999999,0,0,0,0,32,n02815834 beaker
+image_coffe_cup/coffe_cpu_489.jpg,999999,0,0,0,0.25,0,n02815834 beaker
+image_coffe_cup/coffe_cpu_490.jpg,999999,0,0,0,0.25,4,n02815834 beaker
+image_coffe_cup/coffe_cpu_491.jpg,999999,0,0,0,0.25,32,n02815834 beaker
+image_coffe_cup/coffe_cpu_492.jpg,999999,0,0,0,0.75,0,n02815834 beaker
+image_coffe_cup/coffe_cpu_493.jpg,999999,0,0,0,0.75,4,n02815834 beaker
+image_coffe_cup/coffe_cpu_494.jpg,999999,0,0,0,0.75,32,n02815834 beaker
+image_coffe_cup/coffe_cpu_495.jpg,999999,0,0,2,0,0,n02815834 beaker
+image_coffe_cup/coffe_cpu_496.jpg,999999,0,0,2,0,4,n02815834 beaker
+image_coffe_cup/coffe_cpu_497.jpg,999999,0,0,2,0,32,n02815834 beaker
+image_coffe_cup/coffe_cpu_498.jpg,999999,0,0,2,0.25,0,n02815834 beaker
+image_coffe_cup/coffe_cpu_499.jpg,999999,0,0,2,0.25,4,n02815834 beaker
+image_coffe_cup/coffe_cpu_500.jpg,999999,0,0,2,0.25,32,n02815834 beaker
+image_coffe_cup/coffe_cpu_501.jpg,999999,0,0,2,0.75,0,n02815834 beaker
+image_coffe_cup/coffe_cpu_502.jpg,999999,0,0,2,0.75,4,n02815834 beaker
+image_coffe_cup/coffe_cpu_503.jpg,999999,0,0,2,0.75,32,n02815834 beaker
+image_coffe_cup/coffe_cpu_504.jpg,999999,0,0,4,0,0,n02815834 beaker
+image_coffe_cup/coffe_cpu_505.jpg,999999,0,0,4,0,4,n02815834 beaker
+image_coffe_cup/coffe_cpu_506.jpg,999999,0,0,4,0,32,n02815834 beaker
+image_coffe_cup/coffe_cpu_507.jpg,999999,0,0,4,0.25,0,n02815834 beaker
+image_coffe_cup/coffe_cpu_508.jpg,999999,0,0,4,0.25,4,n02815834 beaker
+image_coffe_cup/coffe_cpu_509.jpg,999999,0,0,4,0.25,32,n02815834 beaker
+image_coffe_cup/coffe_cpu_510.jpg,999999,0,0,4,0.75,0,n02815834 beaker
+image_coffe_cup/coffe_cpu_511.jpg,999999,0,0,4,0.75,4,n02815834 beaker
+image_coffe_cup/coffe_cpu_512.jpg,999999,0,0,4,0.75,32,n02815834 beaker
+image_coffe_cup/coffe_cpu_513.jpg,999999,0,0.25,0,0,0,n02815834 beaker
+image_coffe_cup/coffe_cpu_514.jpg,999999,0,0.25,0,0,4,n02815834 beaker
+image_coffe_cup/coffe_cpu_515.jpg,999999,0,0.25,0,0,32,n02815834 beaker
+image_coffe_cup/coffe_cpu_516.jpg,999999,0,0.25,0,0.25,0,n02815834 beaker
+image_coffe_cup/coffe_cpu_517.jpg,999999,0,0.25,0,0.25,4,n02815834 beaker
+image_coffe_cup/coffe_cpu_518.jpg,999999,0,0.25,0,0.25,32,n02815834 beaker
+image_coffe_cup/coffe_cpu_519.jpg,999999,0,0.25,0,0.75,0,n02815834 beaker
+image_coffe_cup/coffe_cpu_520.jpg,999999,0,0.25,0,0.75,4,n02815834 beaker
+image_coffe_cup/coffe_cpu_521.jpg,999999,0,0.25,0,0.75,32,n02815834 beaker
+image_coffe_cup/coffe_cpu_522.jpg,999999,0,0.25,2,0,0,n02815834 beaker
+image_coffe_cup/coffe_cpu_523.jpg,999999,0,0.25,2,0,4,n02815834 beaker
+image_coffe_cup/coffe_cpu_524.jpg,999999,0,0.25,2,0,32,n02815834 beaker
+image_coffe_cup/coffe_cpu_525.jpg,999999,0,0.25,2,0.25,0,n03937543 pill bottle
+image_coffe_cup/coffe_cpu_526.jpg,999999,0,0.25,2,0.25,4,n02815834 beaker
+image_coffe_cup/coffe_cpu_527.jpg,999999,0,0.25,2,0.25,32,n02815834 beaker
+image_coffe_cup/coffe_cpu_528.jpg,999999,0,0.25,2,0.75,0,n02815834 beaker
+image_coffe_cup/coffe_cpu_529.jpg,999999,0,0.25,2,0.75,4,n02815834 beaker
+image_coffe_cup/coffe_cpu_530.jpg,999999,0,0.25,2,0.75,32,n02815834 beaker
+image_coffe_cup/coffe_cpu_531.jpg,999999,0,0.25,4,0,0,n02815834 beaker
+image_coffe_cup/coffe_cpu_532.jpg,999999,0,0.25,4,0,4,n02815834 beaker
+image_coffe_cup/coffe_cpu_533.jpg,999999,0,0.25,4,0,32,n02815834 beaker
+image_coffe_cup/coffe_cpu_534.jpg,999999,0,0.25,4,0.25,0,n02815834 beaker
+image_coffe_cup/coffe_cpu_535.jpg,999999,0,0.25,4,0.25,4,n02815834 beaker
+image_coffe_cup/coffe_cpu_536.jpg,999999,0,0.25,4,0.25,32,n02815834 beaker
+image_coffe_cup/coffe_cpu_537.jpg,999999,0,0.25,4,0.75,0,n02815834 beaker
+image_coffe_cup/coffe_cpu_538.jpg,999999,0,0.25,4,0.75,4,n02815834 beaker
+image_coffe_cup/coffe_cpu_539.jpg,999999,0,0.25,4,0.75,32,n02815834 beaker
+image_coffe_cup/coffe_cpu_540.jpg,999999,0,0.75,0,0,0,n02815834 beaker
+image_coffe_cup/coffe_cpu_541.jpg,999999,0,0.75,0,0,4,n02815834 beaker
+image_coffe_cup/coffe_cpu_542.jpg,999999,0,0.75,0,0,32,n02815834 beaker
+image_coffe_cup/coffe_cpu_543.jpg,999999,0,0.75,0,0.25,0,n02815834 beaker
+image_coffe_cup/coffe_cpu_544.jpg,999999,0,0.75,0,0.25,4,n03937543 pill bottle
+image_coffe_cup/coffe_cpu_545.jpg,999999,0,0.75,0,0.25,32,n02815834 beaker
+image_coffe_cup/coffe_cpu_546.jpg,999999,0,0.75,0,0.75,0,n02815834 beaker
+image_coffe_cup/coffe_cpu_547.jpg,999999,0,0.75,0,0.75,4,n02815834 beaker
+image_coffe_cup/coffe_cpu_548.jpg,999999,0,0.75,0,0.75,32,n02815834 beaker
+image_coffe_cup/coffe_cpu_549.jpg,999999,0,0.75,2,0,0,n02815834 beaker
+image_coffe_cup/coffe_cpu_550.jpg,999999,0,0.75,2,0,4,n03937543 pill bottle
+image_coffe_cup/coffe_cpu_551.jpg,999999,0,0.75,2,0,32,n02815834 beaker
+image_coffe_cup/coffe_cpu_552.jpg,999999,0,0.75,2,0.25,0,n02815834 beaker
+image_coffe_cup/coffe_cpu_553.jpg,999999,0,0.75,2,0.25,4,n02815834 beaker
+image_coffe_cup/coffe_cpu_554.jpg,999999,0,0.75,2,0.25,32,n02815834 beaker
+image_coffe_cup/coffe_cpu_555.jpg,999999,0,0.75,2,0.75,0,n02815834 beaker
+image_coffe_cup/coffe_cpu_556.jpg,999999,0,0.75,2,0.75,4,n02815834 beaker
+image_coffe_cup/coffe_cpu_557.jpg,999999,0,0.75,2,0.75,32,n02815834 beaker
+image_coffe_cup/coffe_cpu_558.jpg,999999,0,0.75,4,0,0,n02815834 beaker
+image_coffe_cup/coffe_cpu_559.jpg,999999,0,0.75,4,0,4,n02815834 beaker
+image_coffe_cup/coffe_cpu_560.jpg,999999,0,0.75,4,0,32,n02815834 beaker
+image_coffe_cup/coffe_cpu_561.jpg,999999,0,0.75,4,0.25,0,n02815834 beaker
+image_coffe_cup/coffe_cpu_562.jpg,999999,0,0.75,4,0.25,4,n02815834 beaker
+image_coffe_cup/coffe_cpu_563.jpg,999999,0,0.75,4,0.25,32,n02815834 beaker
+image_coffe_cup/coffe_cpu_564.jpg,999999,0,0.75,4,0.75,0,n02815834 beaker
+image_coffe_cup/coffe_cpu_565.jpg,999999,0,0.75,4,0.75,4,n02815834 beaker
+image_coffe_cup/coffe_cpu_566.jpg,999999,0,0.75,4,0.75,32,n02815834 beaker
+image_coffe_cup/coffe_cpu_567.jpg,999999,4,0,0,0,0,n02815834 beaker
+image_coffe_cup/coffe_cpu_568.jpg,999999,4,0,0,0,4,n02815834 beaker
+image_coffe_cup/coffe_cpu_569.jpg,999999,4,0,0,0,32,n02815834 beaker
+image_coffe_cup/coffe_cpu_570.jpg,999999,4,0,0,0.25,0,n02815834 beaker
+image_coffe_cup/coffe_cpu_571.jpg,999999,4,0,0,0.25,4,n02815834 beaker
+image_coffe_cup/coffe_cpu_572.jpg,999999,4,0,0,0.25,32,n02815834 beaker
+image_coffe_cup/coffe_cpu_573.jpg,999999,4,0,0,0.75,0,n02815834 beaker
+image_coffe_cup/coffe_cpu_574.jpg,999999,4,0,0,0.75,4,n02815834 beaker
+image_coffe_cup/coffe_cpu_575.jpg,999999,4,0,0,0.75,32,n02815834 beaker
+image_coffe_cup/coffe_cpu_576.jpg,999999,4,0,2,0,0,n02815834 beaker
+image_coffe_cup/coffe_cpu_577.jpg,999999,4,0,2,0,4,n02815834 beaker
+image_coffe_cup/coffe_cpu_578.jpg,999999,4,0,2,0,32,n02815834 beaker
+image_coffe_cup/coffe_cpu_579.jpg,999999,4,0,2,0.25,0,n02815834 beaker
+image_coffe_cup/coffe_cpu_580.jpg,999999,4,0,2,0.25,4,n02815834 beaker
+image_coffe_cup/coffe_cpu_581.jpg,999999,4,0,2,0.25,32,n02815834 beaker
+image_coffe_cup/coffe_cpu_582.jpg,999999,4,0,2,0.75,0,n02815834 beaker
+image_coffe_cup/coffe_cpu_583.jpg,999999,4,0,2,0.75,4,n02815834 beaker
+image_coffe_cup/coffe_cpu_584.jpg,999999,4,0,2,0.75,32,n02815834 beaker
+image_coffe_cup/coffe_cpu_585.jpg,999999,4,0,4,0,0,n02815834 beaker
+image_coffe_cup/coffe_cpu_586.jpg,999999,4,0,4,0,4,n02815834 beaker
+image_coffe_cup/coffe_cpu_587.jpg,999999,4,0,4,0,32,n02815834 beaker
+image_coffe_cup/coffe_cpu_588.jpg,999999,4,0,4,0.25,0,n02815834 beaker
+image_coffe_cup/coffe_cpu_589.jpg,999999,4,0,4,0.25,4,n02815834 beaker
+image_coffe_cup/coffe_cpu_590.jpg,999999,4,0,4,0.25,32,n02815834 beaker
+image_coffe_cup/coffe_cpu_591.jpg,999999,4,0,4,0.75,0,n02815834 beaker
+image_coffe_cup/coffe_cpu_592.jpg,999999,4,0,4,0.75,4,n02815834 beaker
+image_coffe_cup/coffe_cpu_593.jpg,999999,4,0,4,0.75,32,n02815834 beaker
+image_coffe_cup/coffe_cpu_594.jpg,999999,4,0.25,0,0,0,n02815834 beaker
+image_coffe_cup/coffe_cpu_595.jpg,999999,4,0.25,0,0,4,n02815834 beaker
+image_coffe_cup/coffe_cpu_596.jpg,999999,4,0.25,0,0,32,n02815834 beaker
+image_coffe_cup/coffe_cpu_597.jpg,999999,4,0.25,0,0.25,0,n02815834 beaker
+image_coffe_cup/coffe_cpu_598.jpg,999999,4,0.25,0,0.25,4,n02815834 beaker
+image_coffe_cup/coffe_cpu_599.jpg,999999,4,0.25,0,0.25,32,n02815834 beaker
+image_coffe_cup/coffe_cpu_600.jpg,999999,4,0.25,0,0.75,0,n02815834 beaker
+image_coffe_cup/coffe_cpu_601.jpg,999999,4,0.25,0,0.75,4,n02815834 beaker
+image_coffe_cup/coffe_cpu_602.jpg,999999,4,0.25,0,0.75,32,n02815834 beaker
+image_coffe_cup/coffe_cpu_603.jpg,999999,4,0.25,2,0,0,n02815834 beaker
+image_coffe_cup/coffe_cpu_604.jpg,999999,4,0.25,2,0,4,n02815834 beaker
+image_coffe_cup/coffe_cpu_605.jpg,999999,4,0.25,2,0,32,n02815834 beaker
+image_coffe_cup/coffe_cpu_606.jpg,999999,4,0.25,2,0.25,0,n02815834 beaker
+image_coffe_cup/coffe_cpu_607.jpg,999999,4,0.25,2,0.25,4,n02815834 beaker
+image_coffe_cup/coffe_cpu_608.jpg,999999,4,0.25,2,0.25,32,n02815834 beaker
+image_coffe_cup/coffe_cpu_609.jpg,999999,4,0.25,2,0.75,0,n02815834 beaker
+image_coffe_cup/coffe_cpu_610.jpg,999999,4,0.25,2,0.75,4,n02815834 beaker
+image_coffe_cup/coffe_cpu_611.jpg,999999,4,0.25,2,0.75,32,n02815834 beaker
+image_coffe_cup/coffe_cpu_612.jpg,999999,4,0.25,4,0,0,n02815834 beaker
+image_coffe_cup/coffe_cpu_613.jpg,999999,4,0.25,4,0,4,n02815834 beaker
+image_coffe_cup/coffe_cpu_614.jpg,999999,4,0.25,4,0,32,n02815834 beaker
+image_coffe_cup/coffe_cpu_615.jpg,999999,4,0.25,4,0.25,0,n02815834 beaker
+image_coffe_cup/coffe_cpu_616.jpg,999999,4,0.25,4,0.25,4,n02815834 beaker
+image_coffe_cup/coffe_cpu_617.jpg,999999,4,0.25,4,0.25,32,n02815834 beaker
+image_coffe_cup/coffe_cpu_618.jpg,999999,4,0.25,4,0.75,0,n02815834 beaker
+image_coffe_cup/coffe_cpu_619.jpg,999999,4,0.25,4,0.75,4,n02815834 beaker
+image_coffe_cup/coffe_cpu_620.jpg,999999,4,0.25,4,0.75,32,n02815834 beaker
+image_coffe_cup/coffe_cpu_621.jpg,999999,4,0.75,0,0,0,n02815834 beaker
+image_coffe_cup/coffe_cpu_622.jpg,999999,4,0.75,0,0,4,n02815834 beaker
+image_coffe_cup/coffe_cpu_623.jpg,999999,4,0.75,0,0,32,n02815834 beaker
+image_coffe_cup/coffe_cpu_624.jpg,999999,4,0.75,0,0.25,0,n02815834 beaker
+image_coffe_cup/coffe_cpu_625.jpg,999999,4,0.75,0,0.25,4,n02815834 beaker
+image_coffe_cup/coffe_cpu_626.jpg,999999,4,0.75,0,0.25,32,n02815834 beaker
+image_coffe_cup/coffe_cpu_627.jpg,999999,4,0.75,0,0.75,0,n02815834 beaker
+image_coffe_cup/coffe_cpu_628.jpg,999999,4,0.75,0,0.75,4,n02815834 beaker
+image_coffe_cup/coffe_cpu_629.jpg,999999,4,0.75,0,0.75,32,n02815834 beaker
+image_coffe_cup/coffe_cpu_630.jpg,999999,4,0.75,2,0,0,n02815834 beaker
+image_coffe_cup/coffe_cpu_631.jpg,999999,4,0.75,2,0,4,n02815834 beaker
+image_coffe_cup/coffe_cpu_632.jpg,999999,4,0.75,2,0,32,n02815834 beaker
+image_coffe_cup/coffe_cpu_633.jpg,999999,4,0.75,2,0.25,0,n02815834 beaker
+image_coffe_cup/coffe_cpu_634.jpg,999999,4,0.75,2,0.25,4,n02815834 beaker
+image_coffe_cup/coffe_cpu_635.jpg,999999,4,0.75,2,0.25,32,n02815834 beaker
+image_coffe_cup/coffe_cpu_636.jpg,999999,4,0.75,2,0.75,0,n02815834 beaker
+image_coffe_cup/coffe_cpu_637.jpg,999999,4,0.75,2,0.75,4,n02815834 beaker
+image_coffe_cup/coffe_cpu_638.jpg,999999,4,0.75,2,0.75,32,n02815834 beaker
+image_coffe_cup/coffe_cpu_639.jpg,999999,4,0.75,4,0,0,n02815834 beaker
+image_coffe_cup/coffe_cpu_640.jpg,999999,4,0.75,4,0,4,n02815834 beaker
+image_coffe_cup/coffe_cpu_641.jpg,999999,4,0.75,4,0,32,n02815834 beaker
+image_coffe_cup/coffe_cpu_642.jpg,999999,4,0.75,4,0.25,0,n02815834 beaker
+image_coffe_cup/coffe_cpu_643.jpg,999999,4,0.75,4,0.25,4,n02815834 beaker
+image_coffe_cup/coffe_cpu_644.jpg,999999,4,0.75,4,0.25,32,n02815834 beaker
+image_coffe_cup/coffe_cpu_645.jpg,999999,4,0.75,4,0.75,0,n02815834 beaker
+image_coffe_cup/coffe_cpu_646.jpg,999999,4,0.75,4,0.75,4,n02815834 beaker
+image_coffe_cup/coffe_cpu_647.jpg,999999,4,0.75,4,0.75,32,n02815834 beaker
+image_coffe_cup/coffe_cpu_648.jpg,999999,32,0,0,0,0,n15075141 toilet tissue, toilet paper, bathroom tissue
+image_coffe_cup/coffe_cpu_649.jpg,999999,32,0,0,0,4,n15075141 toilet tissue, toilet paper, bathroom tissue
+image_coffe_cup/coffe_cpu_650.jpg,999999,32,0,0,0,32,n03937543 pill bottle
+image_coffe_cup/coffe_cpu_651.jpg,999999,32,0,0,0.25,0,n15075141 toilet tissue, toilet paper, bathroom tissue
+image_coffe_cup/coffe_cpu_652.jpg,999999,32,0,0,0.25,4,n15075141 toilet tissue, toilet paper, bathroom tissue
+image_coffe_cup/coffe_cpu_653.jpg,999999,32,0,0,0.25,32,n04131690 saltshaker, salt shaker
+image_coffe_cup/coffe_cpu_654.jpg,999999,32,0,0,0.75,0,n15075141 toilet tissue, toilet paper, bathroom tissue
+image_coffe_cup/coffe_cpu_655.jpg,999999,32,0,0,0.75,4,n03937543 pill bottle
+image_coffe_cup/coffe_cpu_656.jpg,999999,32,0,0,0.75,32,n04131690 saltshaker, salt shaker
+image_coffe_cup/coffe_cpu_657.jpg,999999,32,0,2,0,0,n15075141 toilet tissue, toilet paper, bathroom tissue
+image_coffe_cup/coffe_cpu_658.jpg,999999,32,0,2,0,4,n15075141 toilet tissue, toilet paper, bathroom tissue
+image_coffe_cup/coffe_cpu_659.jpg,999999,32,0,2,0,32,n15075141 toilet tissue, toilet paper, bathroom tissue
+image_coffe_cup/coffe_cpu_660.jpg,999999,32,0,2,0.25,0,n04116512 rubber eraser, rubber, pencil eraser
+image_coffe_cup/coffe_cpu_661.jpg,999999,32,0,2,0.25,4,n15075141 toilet tissue, toilet paper, bathroom tissue
+image_coffe_cup/coffe_cpu_662.jpg,999999,32,0,2,0.25,32,n04116512 rubber eraser, rubber, pencil eraser
+image_coffe_cup/coffe_cpu_663.jpg,999999,32,0,2,0.75,0,n03937543 pill bottle
+image_coffe_cup/coffe_cpu_664.jpg,999999,32,0,2,0.75,4,n15075141 toilet tissue, toilet paper, bathroom tissue
+image_coffe_cup/coffe_cpu_665.jpg,999999,32,0,2,0.75,32,n03937543 pill bottle
+image_coffe_cup/coffe_cpu_666.jpg,999999,32,0,4,0,0,n15075141 toilet tissue, toilet paper, bathroom tissue
+image_coffe_cup/coffe_cpu_667.jpg,999999,32,0,4,0,4,n04116512 rubber eraser, rubber, pencil eraser
+image_coffe_cup/coffe_cpu_668.jpg,999999,32,0,4,0,32,n15075141 toilet tissue, toilet paper, bathroom tissue
+image_coffe_cup/coffe_cpu_669.jpg,999999,32,0,4,0.25,0,n04116512 rubber eraser, rubber, pencil eraser
+image_coffe_cup/coffe_cpu_670.jpg,999999,32,0,4,0.25,4,n04116512 rubber eraser, rubber, pencil eraser
+image_coffe_cup/coffe_cpu_671.jpg,999999,32,0,4,0.25,32,n03937543 pill bottle
+image_coffe_cup/coffe_cpu_672.jpg,999999,32,0,4,0.75,0,n15075141 toilet tissue, toilet paper, bathroom tissue
+image_coffe_cup/coffe_cpu_673.jpg,999999,32,0,4,0.75,4,n15075141 toilet tissue, toilet paper, bathroom tissue
+image_coffe_cup/coffe_cpu_674.jpg,999999,32,0,4,0.75,32,n15075141 toilet tissue, toilet paper, bathroom tissue
+image_coffe_cup/coffe_cpu_675.jpg,999999,32,0.25,0,0,0,n15075141 toilet tissue, toilet paper, bathroom tissue
+image_coffe_cup/coffe_cpu_676.jpg,999999,32,0.25,0,0,4,n15075141 toilet tissue, toilet paper, bathroom tissue
+image_coffe_cup/coffe_cpu_677.jpg,999999,32,0.25,0,0,32,n15075141 toilet tissue, toilet paper, bathroom tissue
+image_coffe_cup/coffe_cpu_678.jpg,999999,32,0.25,0,0.25,0,n04131690 saltshaker, salt shaker
+image_coffe_cup/coffe_cpu_679.jpg,999999,32,0.25,0,0.25,4,n04131690 saltshaker, salt shaker
+image_coffe_cup/coffe_cpu_680.jpg,999999,32,0.25,0,0.25,32,n04116512 rubber eraser, rubber, pencil eraser
+image_coffe_cup/coffe_cpu_681.jpg,999999,32,0.25,0,0.75,0,n04131690 saltshaker, salt shaker
+image_coffe_cup/coffe_cpu_682.jpg,999999,32,0.25,0,0.75,4,n04131690 saltshaker, salt shaker
+image_coffe_cup/coffe_cpu_683.jpg,999999,32,0.25,0,0.75,32,n04131690 saltshaker, salt shaker
+image_coffe_cup/coffe_cpu_684.jpg,999999,32,0.25,2,0,0,n04131690 saltshaker, salt shaker
+image_coffe_cup/coffe_cpu_685.jpg,999999,32,0.25,2,0,4,n15075141 toilet tissue, toilet paper, bathroom tissue
+image_coffe_cup/coffe_cpu_686.jpg,999999,32,0.25,2,0,32,n04131690 saltshaker, salt shaker
+image_coffe_cup/coffe_cpu_687.jpg,999999,32,0.25,2,0.25,0,n15075141 toilet tissue, toilet paper, bathroom tissue
+image_coffe_cup/coffe_cpu_688.jpg,999999,32,0.25,2,0.25,4,n03937543 pill bottle
+image_coffe_cup/coffe_cpu_689.jpg,999999,32,0.25,2,0.25,32,n15075141 toilet tissue, toilet paper, bathroom tissue
+image_coffe_cup/coffe_cpu_690.jpg,999999,32,0.25,2,0.75,0,n04131690 saltshaker, salt shaker
+image_coffe_cup/coffe_cpu_691.jpg,999999,32,0.25,2,0.75,4,n04131690 saltshaker, salt shaker
+image_coffe_cup/coffe_cpu_692.jpg,999999,32,0.25,2,0.75,32,n03937543 pill bottle
+image_coffe_cup/coffe_cpu_693.jpg,999999,32,0.25,4,0,0,n04131690 saltshaker, salt shaker
+image_coffe_cup/coffe_cpu_694.jpg,999999,32,0.25,4,0,4,n04116512 rubber eraser, rubber, pencil eraser
+image_coffe_cup/coffe_cpu_695.jpg,999999,32,0.25,4,0,32,n15075141 toilet tissue, toilet paper, bathroom tissue
+image_coffe_cup/coffe_cpu_696.jpg,999999,32,0.25,4,0.25,0,n04116512 rubber eraser, rubber, pencil eraser
+image_coffe_cup/coffe_cpu_697.jpg,999999,32,0.25,4,0.25,4,n15075141 toilet tissue, toilet paper, bathroom tissue
+image_coffe_cup/coffe_cpu_698.jpg,999999,32,0.25,4,0.25,32,n15075141 toilet tissue, toilet paper, bathroom tissue
+image_coffe_cup/coffe_cpu_699.jpg,999999,32,0.25,4,0.75,0,n03937543 pill bottle
+image_coffe_cup/coffe_cpu_700.jpg,999999,32,0.25,4,0.75,4,n04131690 saltshaker, salt shaker
+image_coffe_cup/coffe_cpu_701.jpg,999999,32,0.25,4,0.75,32,n15075141 toilet tissue, toilet paper, bathroom tissue
+image_coffe_cup/coffe_cpu_702.jpg,999999,32,0.75,0,0,0,n04116512 rubber eraser, rubber, pencil eraser
+image_coffe_cup/coffe_cpu_703.jpg,999999,32,0.75,0,0,4,n04116512 rubber eraser, rubber, pencil eraser
+image_coffe_cup/coffe_cpu_704.jpg,999999,32,0.75,0,0,32,n04131690 saltshaker, salt shaker
+image_coffe_cup/coffe_cpu_705.jpg,999999,32,0.75,0,0.25,0,n03937543 pill bottle
+image_coffe_cup/coffe_cpu_706.jpg,999999,32,0.75,0,0.25,4,n15075141 toilet tissue, toilet paper, bathroom tissue
+image_coffe_cup/coffe_cpu_707.jpg,999999,32,0.75,0,0.25,32,n04131690 saltshaker, salt shaker
+image_coffe_cup/coffe_cpu_708.jpg,999999,32,0.75,0,0.75,0,n03291819 envelope
+image_coffe_cup/coffe_cpu_709.jpg,999999,32,0.75,0,0.75,4,n04131690 saltshaker, salt shaker
+image_coffe_cup/coffe_cpu_710.jpg,999999,32,0.75,0,0.75,32,n15075141 toilet tissue, toilet paper, bathroom tissue
+image_coffe_cup/coffe_cpu_711.jpg,999999,32,0.75,2,0,0,n03937543 pill bottle
+image_coffe_cup/coffe_cpu_712.jpg,999999,32,0.75,2,0,4,n04116512 rubber eraser, rubber, pencil eraser
+image_coffe_cup/coffe_cpu_713.jpg,999999,32,0.75,2,0,32,n04116512 rubber eraser, rubber, pencil eraser
+image_coffe_cup/coffe_cpu_714.jpg,999999,32,0.75,2,0.25,0,n04116512 rubber eraser, rubber, pencil eraser
+image_coffe_cup/coffe_cpu_715.jpg,999999,32,0.75,2,0.25,4,n04116512 rubber eraser, rubber, pencil eraser
+image_coffe_cup/coffe_cpu_716.jpg,999999,32,0.75,2,0.25,32,n04131690 saltshaker, salt shaker
+image_coffe_cup/coffe_cpu_717.jpg,999999,32,0.75,2,0.75,0,n15075141 toilet tissue, toilet paper, bathroom tissue
+image_coffe_cup/coffe_cpu_718.jpg,999999,32,0.75,2,0.75,4,n04116512 rubber eraser, rubber, pencil eraser
+image_coffe_cup/coffe_cpu_719.jpg,999999,32,0.75,2,0.75,32,n04131690 saltshaker, salt shaker
+image_coffe_cup/coffe_cpu_720.jpg,999999,32,0.75,4,0,0,n04116512 rubber eraser, rubber, pencil eraser
+image_coffe_cup/coffe_cpu_721.jpg,999999,32,0.75,4,0,4,n04131690 saltshaker, salt shaker
+image_coffe_cup/coffe_cpu_722.jpg,999999,32,0.75,4,0,32,n04116512 rubber eraser, rubber, pencil eraser
+image_coffe_cup/coffe_cpu_723.jpg,999999,32,0.75,4,0.25,0,n15075141 toilet tissue, toilet paper, bathroom tissue
+image_coffe_cup/coffe_cpu_724.jpg,999999,32,0.75,4,0.25,4,n04116512 rubber eraser, rubber, pencil eraser
+image_coffe_cup/coffe_cpu_725.jpg,999999,32,0.75,4,0.25,32,n04116512 rubber eraser, rubber, pencil eraser
+image_coffe_cup/coffe_cpu_726.jpg,999999,32,0.75,4,0.75,0,n04116512 rubber eraser, rubber, pencil eraser
+image_coffe_cup/coffe_cpu_727.jpg,999999,32,0.75,4,0.75,4,n15075141 toilet tissue, toilet paper, bathroom tissue
+image_coffe_cup/coffe_cpu_728.jpg,999999,32,0.75,4,0.75,32,n15075141 toilet tissue, toilet paper, bathroom tissue
