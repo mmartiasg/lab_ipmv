@@ -1,4 +1,3 @@
-# lab_ipmv
+# laboratory IPMV
 
-# Report draft is here:
-google drive https://drive.google.com/drive/u/0/folders/1mhgA9TDZ3yH85qUj6E8iojvDZFhcJ04f
+In this lab we are going to run an algorithm on several images with different parameters. The idea behind is to analyze it automatically and hand pick some pictures to study what is really going on behind the hood.
